@@ -2,6 +2,14 @@
 
 
 .. Keep the current version number on line number 5
+0.0.1
+=====
+
+2019-11-18
+
+No functional changes.
+
+
 0.0.0
 =====
 
